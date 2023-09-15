@@ -338,6 +338,26 @@ the website, in dark theme
   row-gap: 3.5rem;
 }
 
+/* Style the login button */
+.nav__link#login {
+  background-color: #007bff;
+  /* Change the background color to your preference */
+  color: #fff;
+  /* Text color */
+  padding: 10px 20px;
+  /* Adjust padding as needed */
+  border-radius: 5px;
+  /* Rounded corners */
+  text-decoration: none;
+  /* Remove underlines */
+}
+
+/* Style the button on hover */
+.nav__link#login:hover {
+  background-color: #0056b3;
+  /* Change the background color on hover */
+}
+
 .home__social-follow {
   font-weight: var(--font-medium);
   font-size: var(--smaller-font-size);
