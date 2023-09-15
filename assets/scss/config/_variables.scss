@@ -1,8 +1,9 @@
 /*=============== GOOGLE FONTS ===============*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
 
 /*=============== VARIABLES CSS ===============*/
-:root{
+:root {
     --header-height: 3.5rem; // 56px
 
     /*========== Colors ==========*/
@@ -21,7 +22,7 @@
 
     /*========== Font and typography ==========*/
     /*.5rem = 8px | 1rem = 16px ...*/
-    --body-font: 'Poppins', sans-serif;
+    --body-font: 'Lora', serif;
 
     --big-font-size: 2rem;
     --h1-font-size: 1.5rem;
@@ -32,7 +33,7 @@
     --smaller-font-size: .75rem;
 
     // Responsive typography
-    @media screen and (min-width: 968px){
+    @media screen and (min-width: 968px) {
         --big-font-size: 3.5rem;
         --h1-font-size: 2.25rem;
         --h2-font-size: 1.5rem;
