@@ -1,5 +1,7 @@
 /*=============== SHOW MENU ===============*/
-
+const navMenu = document.getElementById('nav-menu'),
+    navToggle = document.getElementById('nav-toggle'),
+    navClose = document.getElementById('nav-close')
 
 /*===== MENU SHOW =====*/
 /* Validate if constant exists */
@@ -131,8 +133,6 @@ const sr = ScrollReveal({
     delay: 400,
     // reset: true
 })
-
-
 
 sr.reveal(`.home__data`)
 sr.reveal(`.home__img`, { delay: 500 })
