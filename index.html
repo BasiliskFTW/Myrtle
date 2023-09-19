@@ -135,9 +135,14 @@
                         </p>
                     </div>
 
-                    <a href="#" class="button--link button--flex">
-                        Scan Now <i class="ri-arrow-right-down-line button__icon"></i>
-                    </a>
+                    <form action="/upload" method="post" enctype="multipart/form-data">
+                        <input type="file" name="picture" accept="image/*" capture="environment" style="display: none;">
+                        <a href="#" class="button--link button--flex" id="scanButton">
+                            Scan Now <i class="ri-arrow-right-down-line button__icon"></i>
+                        </a>
+                    </form>
+
+
                 </div>
             </div>
         </section>
@@ -532,17 +537,8 @@
 
     <!--=============== SCROLL REVEAL ===============-->
     <script src="assets/js/scrollreveal.min.js"></script>
-    <script>// Select the button and iframe container
-        const toggleIframeButton = document.getElementById('toggleIframeButton');
-        const iframeContainer = document.getElementById('iframeContainer');
 
-        // Add a click event listener to the button
-        toggleIframeButton.addEventListener('click', () => {
-            // Toggle the display style of the iframe container
-            iframeContainer.style.display = (iframeContainer.style.display === 'none') ? 'block' : 'none';
-        });
-    </script>
-
+    <script src="assets/js/index.js"></script>
     <!--=============== MAIN JS ===============-->
     <script src="assets/js/main.js"></script>
 
