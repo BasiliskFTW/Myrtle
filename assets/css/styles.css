@@ -473,10 +473,8 @@ the website, in dark theme
 
 .steps__card-number {
   display: inline-block;
-  background-color: var(--first-color-alt);
   color: #FFF;
   padding: .5rem .75rem;
-  border-radius: .25rem;
   font-size: var(--h2-font-size);
   margin-bottom: var(--mb-1-5);
   transition: .3s;

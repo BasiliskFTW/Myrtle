@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
 
     <!--=============== FAVICON ===============-->
     <link rel="shortcut icon" href="assets\img\leaves-of-a-plant.png" type="image/x-icon">
@@ -140,6 +141,7 @@
                         <a href="#" class="button--link button--flex" id="scanButton">
                             Scan Now <i class="ri-arrow-right-down-line button__icon"></i>
                         </a>
+
                     </form>
 
 
@@ -151,31 +153,51 @@
         <section class="steps section container">
             <div class="steps__bg">
                 <h2 class="section__title-center steps__title">
-                    Steps to know your <br> plants right
+                    Did You Know?
                 </h2>
 
                 <div class="steps__container grid">
                     <div class="steps__card">
-                        <div class="steps__card-number">01</div>
-                        <h3 class="steps__card-title">Choose or Take A Photo</h3>
+                        <div class="steps__card-number">
+                            <img src="assets\img\EchinaceaMask.png" alt="Plant 1">
+                        </div>
+                        <h3 class="steps__card-title">Echinacea</h3>
                         <p class="steps__card-description">
-                            We have a huge library of information which will help you
+                            Echinacea is native to North America and has been used by Native American tribes for
+                            centuries as a traditional herbal remedy. They used echinacea to treat various ailments,
+                            such as infections and snakebites.
+                            Today, it is one of the most popular herbal supplements in the United States, known for its
+                            immune-boosting properties.
                         </p>
                     </div>
 
                     <div class="steps__card">
-                        <div class="steps__card-number">02</div>
-                        <h3 class="steps__card-title">Know About Your Plant</h3>
+                        <div class="steps__card-number">
+                            <img src="assets\img\CalendulaMask.png" alt="Plant 2">
+                        </div>
+                        <h3 class="steps__card-title">Calendula</h3>
                         <p class="steps__card-description">
-                            With Our In House Curated API you get 360 information
+                            Calendula is often referred to as the "poor man's saffron" because its bright orange or
+                            yellow petals can be used as a
+                            saffron substitute to add color to rice dishes and soups. While it doesn't have the same
+                            flavor as saffron, it can
+                            provide a similar vibrant hue to culinary creations.
+
                         </p>
                     </div>
 
                     <div class="steps__card">
-                        <div class="steps__card-number">03</div>
-                        <h3 class="steps__card-title">Wish To Buy ?</h3>
+                        <div class="steps__card-number">
+                            <img src="assets\img\LavendarMask.png" alt="Plant 3">
+                        </div>
+                        <h3 class="steps__card-title">Lavendar</h3>
                         <p class="steps__card-description">
-                            Our buying & delivery process is easy, you receive the plant direct to your door.
+                            Lavender is not only prized for its medicinal properties but also has a long history of
+                            culinary use. In various cuisines, lavender flowers are used to add a subtle, floral flavor
+                            to dishes and desserts.
+                            It can be found in recipes for lavender-infused honey, lavender shortbread cookies, and even
+                            lavender-scented ice
+                            cream.
                         </p>
                     </div>
                 </div>
@@ -408,7 +430,7 @@
                             <h3 class="contact__subtitle">Call us for instant support</h3>
                             <span class="contact__description">
                                 <i class="ri-phone-line contact__icon"></i>
-                                +999 888 777
+                                +999 888 777 6
                             </span>
                         </div>
 
@@ -538,9 +560,13 @@
     <!--=============== SCROLL REVEAL ===============-->
     <script src="assets/js/scrollreveal.min.js"></script>
 
+
+
+
     <script src="assets/js/index.js"></script>
     <!--=============== MAIN JS ===============-->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/supabase.js"></script>
 
 </body>
 
