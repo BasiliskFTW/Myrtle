@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap');
 
 
 
 
 body {
-    font-family: 'Space Mono', monospace;
+    font-family: 'Domine', serif;
     font-weight: 300;
     line-height: 1.7;
     color: #ffeba7;
