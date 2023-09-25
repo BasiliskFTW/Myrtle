@@ -8,6 +8,11 @@ body {
     font-weight: 300;
     line-height: 1.7;
     color: #1F441E;
+    background-image: url('assets\img\Japanese.png');
+    /* Replace with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-color: #618264;
 }
 
