@@ -12,22 +12,53 @@ India's diverse landscape, seasonal variations, and similar characteristics amon
 
 ## Key Features
 
-- **Image-Based Identification:** Users can upload images of plants or raw materials for identification.
-  
-- **Machine Learning Model:** The website employs a robust machine learning model trained to recognize various plant species and raw materials.
+### 1. Augmented Reality (AR) Plant Identification (AR, Computer Vision, Real-time Tracking)
 
-- **Comprehensive Database:** A vast database containing high-quality images, detailed descriptions, medicinal properties, and other relevant information for each plant species and raw material.
+- Easily identify plants by pointing your smartphone camera at them.
+- Real-time information overlays on your screen, thanks to computer vision and real-time tracking.
+- An immersive experience that makes plant identification a breeze.
 
-- **Educational Resources:** Users gain access to comprehensive information about identified plants and raw materials, including habitat, uses, medicinal properties, and safety precautions.
+### 2. Blockchain-Verified Authenticity (Blockchain, Cryptocurrency)
 
-- **Responsive Design:** The website is optimized for various screen sizes, ensuring accessibility on both desktop and mobile devices.
+- Verify the authenticity and origin of medicinal plants encountered in the wild.
+- Each verified plant has a blockchain record, ensuring its source and quality.
+- Secure transactions are supported by cryptocurrency, providing assurance.
 
-- **Community Engagement:** Users can contribute their knowledge, share experiences, and enhance the platform's content.
+### 3. Machine Translation for Local Knowledge (Natural Language Processing, Machine Translation)
 
-- **Feedback Mechanism:** An integrated feedback system allows users to provide suggestions, report issues, and share comments, facilitating continuous improvement.
+- Travel to regions with different languages without worry.
+- The app translates plant information into your preferred language.
+- Access local knowledge effortlessly as you explore.
 
-- **Legal and Ethical Considerations:** The platform acknowledges legal and ethical considerations related to plant identification and use, particularly within the context of traditional medicine and Ayurveda.
+### 4. Customizable Plant Libraries (Data Science, Data Analytics, User Management)
 
+- Create, customize, and manage your personal plant libraries within the app.
+- Add notes, photos, and share your collections with the community.
+- Advanced data analytics ensure a seamless user experience.
+
+### 5. Offline Mode and Multispectral Imaging (IoT, Big Data, Multispectral Imaging)
+
+- Use the app even in remote areas with limited internet connectivity.
+- A locally stored database of common plant species ensures accessibility.
+- Multispectral imaging technology enhances plant identification accuracy.
+
+### 6. Geolocation Integration and Interactive Map (Geolocation, Internet of Things)
+
+- Input your location or use GPS data to narrow down potential plant species.
+- Explore nearby plant life on an interactive map with geolocation features.
+- IoT technology enhances your plant exploration experience.
+
+### 7. Herbal Consultancy and Community Contribution (Chatbots, Community Engagement)
+
+- Connect with experts, researchers, and botanists through AI chatbots.
+- Get advice on medicinal plants and enhance your knowledge.
+- Contribute to the community by submitting plant information, images, and insights.
+
+### 8. Plant Marketplace (E-commerce, Cryptocurrency)
+
+- Purchase specific medicinal plants from verified sellers within the app.
+- Secure transactions are supported by cryptocurrency, ensuring trust.
+- Explore a marketplace dedicated to authentic and high-quality plants.
 ## Getting Started
 
 To explore the Plant and Raw Material Identification Website, follow these steps:
