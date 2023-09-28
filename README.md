@@ -1,4 +1,5 @@
 # Myrtle
+![Myrtle Image]([https://example.com/myrtle-image.jpg](https://www.flaticon.com/free-icon/plant_497357?term=plants&page=1&position=28&origin=search&related_id=497357))
 
 # Plant and Raw Material Identification Website
 
