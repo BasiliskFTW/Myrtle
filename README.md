@@ -1,5 +1,5 @@
 # Myrtle
-![Myrtle Image](https://imgur.com/bDYEZAb)
+![Myrtle Image](https://imgur.com/AYm7Ijl)
 
 # Plant and Raw Material Identification Website
 
