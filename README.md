@@ -82,7 +82,7 @@ We value your feedback! If you encounter any issues, have suggestions, or want t
 
 ## License
 
-This project is licensed under the [QuantumFrost] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
