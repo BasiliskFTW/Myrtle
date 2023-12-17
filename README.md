@@ -1,6 +1,5 @@
 # Myrtle
 
-![Myrtle]((https://imgur.com/a/d7h4vLN))
 
 # Plant and Raw Material Identification Website
 
