@@ -1,5 +1,6 @@
 # Myrtle
-!(https://github.com/GreNxNja/Myrtle/raw/main/Screenshot%202024-02-01%20093528.png)
+![Myrtle Website Screenshot](https://github.com/GreNxNja/Myrtle/raw/main/Screenshot%202024-02-01%20093528.png)
+
 
 
 # Plant and Raw Material Identification Website
